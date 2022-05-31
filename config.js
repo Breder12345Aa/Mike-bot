@@ -14,9 +14,9 @@ let fs = require('fs')
 let chalk = require('chalk')
 
 global.linkGC = ['https://chat.whatsapp.com/EVCGfzxLWfp81n0WhmVklH', 'https://chat.whatsapp.com/FnNAbem8o6r4pgLhSdO8Q9', 'https://chat.whatsapp.com/HBhy7rVae3o0PkIfkhvs2N'] // ganti jadi group lu
-global.owner = ['6282297563380', '6282268022349', '18084682564'] // Put your number here
-global.mods = ['6289669349047', '6288261394557'] // Want some help?
-global.prems = ['6285157336614','6285826114932','6281804722199','6288261394557','6283162053369','6281326473951','6287819963375','6288804613452','6281359947995','6281396003770', '6281258799736', '628817649108','62895614713899','6281268032665','6281295177968','6287736859770','6282133821292','6288973942264'] // Premium user has unlimited limit
+global.owner = ['6283183321692', '79089997971', '212775928935'] // Put your number here
+global.mods = ['6283183321692', '6283183321692'] // Want some help?
+global.prems = ['6283183321692','212775928935','79089997971','','','','','','','', '', '','','','','','',''] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
   bx: 'https://bx-hunter.herokuapp.com',
